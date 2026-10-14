@@ -1,0 +1,28 @@
+Tables of Contents
+==================
+- Descriptions
+- Original Sources
+- References
+
+
+Descriptions
+============
+Mirflickr deals with the task of image retrieval.
+
+The candidate labels are collected from web users and further examined by human labelers to specify the ground-truth labels.
+
+
+Original Sources
+================
+1. The MIRFLICKR Retrieval Evaluation: http://press.liacs.nl/mirflickr/mirdownload.html
+
+2. Min-Ling Zhang's Homepage: http://palm.seu.edu.cn/zhangml/
+
+
+References
+==========
+1. Mirflickr is firstly used in the following MIR'08 paper:
+[Huiskes and Lew, 2008] M.J. Huiskes and M.S. Lew. The MIR Flickr retrieval evaluation. In: Proceedings of the 1st ACM International Conference on Multimedia Information Retrieval, Vancouver, Canada, 2008, 39–43.
+
+2.Mirflickr is used as partial multi-label data in the following TPAMI'21 paper:
+[Zhang and Fang, 2021] M.-L. Zhang and J.-P. Fang. Partial multi-label learning via credible label elicitation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021, 43(10): 3587–3599.

@@ -1,0 +1,23 @@
+Tables of Contents
+==================
+- Descriptions
+- Original Sources
+- References
+
+
+Descriptions
+============
+Music_style deals with the task of music classification from the style perspective.
+
+The candidate labels are tagged by common labelers and the corresponding ground truth labels are further examined by professional labelers.
+
+
+Original Sources
+================
+1. Min-Ling Zhang's Homepage: http://palm.seu.edu.cn/zhangml/
+
+
+References
+==========
+1. Music_style is firstly used as partial multi-label data in the following TPAMI'21 paper:
+[Zhang and Fang, 2021] M.-L. Zhang and J.-P. Fang. Partial multi-label learning via credible label elicitation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021, 43(10): 3587–3599.

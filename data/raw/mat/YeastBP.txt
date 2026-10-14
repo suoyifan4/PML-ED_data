@@ -1,0 +1,29 @@
+Tables of Contents
+==================
+- Descriptions
+- Original Sources
+- References
+
+
+Descriptions
+============
+YeastBP is protein-protein interaction dataset collected from BioGrid. Specifically, functional labels of proteins are divided in three orthogonal branches of the
+Gene Ontology: cellular component (CC), molecular function (MF), and biological process (BP), and this data set corresponds to the BP branch.
+
+After downloading the functional annotations of Yeast proteins archived on different periods (historical: 2016-03-14, recent: 2017-03-13) from the Gene Ontology,
+the annotations available in history but absent in more recent times are considered as noisy labels. More details about preprocessing notes can be found in [Yu et al., 2018].
+
+
+Original Sources
+================
+1. BioGrid: https://thebiogrid.org/
+
+2. Gene Ontology: http://www.geneontology.org
+
+3. The download link on Prof. Yu's homepage: http://www.sdu-idea.cn/upload/code/fPML.zip
+
+
+References
+==========
+1. YeastBP is firstly used as partial multi-label data in the following ICDM'18 paper:
+[Yu et al., 2018] G. Yu, X. Chen, C. Domeniconi, J. Wang, Z. Li, Z. Zhang, and X. Wu. Feature-induced partial multi-label learning. In: Proceedings of the 18th IEEE International Conference on Data Mining, Singapore, 2018, 1398–1403.
